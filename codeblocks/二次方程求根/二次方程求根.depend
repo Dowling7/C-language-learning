@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610458132 source:c:\users\aa\desktop\codes\codeblocks\二次方程求根\main.c
+	<stdio.h>
+	<math.h>
+	<unistd.h>
+
